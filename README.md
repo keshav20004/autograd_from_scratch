@@ -16,20 +16,8 @@ This project demonstrates how to implement **computational graphs** and **backpr
 
 ---
 
-## 📂 Project Structure
-autograd-from-scratch/
-│── value.py # Core Value class
-│── demo.py # Example usage
-│── README.md # Documentation
 
----
 
-## ⚙️ Installation
-Clone the repo:
-```bash
-git clone https://github.com/yourusername/autograd-from-scratch.git
-cd autograd-from-scratch
-from value import Value
 
 # Forward pass
 x = Value(2.0)
